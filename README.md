@@ -1,11 +1,14 @@
-# Enumerable
+# OOP school library
+> OOP school library is to record what books are in the library and who borrows them. It allow you to :
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a given book and when.
+
+## Built With
+
+- Ruby
 
 ## Authors
-
-👤 **Levy**
-
-- GitHub: [@githubhandle](https://github.com/levy002)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/levy-ukwishaka/)
 
 👤 **Matchoudi**
 
@@ -13,7 +16,7 @@
 -- Twitter: [@Matchoudi1](https://twitter.com/Matchoudi1)
 - LinkedIn: [matchoudi](https://linkedin.com/in/matchoudi)
 
-### Clone this repository : `https://github.com/LionRouge1/Enumerable`
+### Clone this repository : `git@github.com:LionRouge1/school_library.git`
 
 ## 🤝 Contributing
 
