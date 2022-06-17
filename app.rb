@@ -51,5 +51,4 @@ class App
     @rentals.select { |rental| rental.person.id == person_id }
       .map { |rental| print "Date: #{rental.date}, Book: #{rental.book.title} by #{rental.book.author}" }
   end
-    
 end
