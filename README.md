@@ -5,11 +5,8 @@
 - Save records of who borrowed a given book and when.
 
 ## Built With
-
 - Ruby
-
 ## Authors
-
 👤 **Matchoudi**
 
 - GitHub: [@githubhandle](https://github.com/LionRouge1)
