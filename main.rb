@@ -25,6 +25,7 @@ def select_option(option)
     main
   when 7
     puts 'Goodbye'
+    return
   else
     puts 'Choose a correct option'
   end
